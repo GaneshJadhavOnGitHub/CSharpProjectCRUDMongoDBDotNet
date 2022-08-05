@@ -95,7 +95,7 @@ mongod --dbpath="Path to the directory where we are storing the databases"
 
 Output :- 
 -----------
-[CRUDWithMongoDBOutput](https://user-images.githubusercontent.com/86361080/183069135-2c755fd6-de77-44cb-b4d3-73fbd5d0efbe.jpg)
+![CRUDWithMongoDBOutput](https://user-images.githubusercontent.com/86361080/183069135-2c755fd6-de77-44cb-b4d3-73fbd5d0efbe.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
